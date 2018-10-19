@@ -1,4 +1,4 @@
-To Run Test cases:
+To Run Test cases from command prompt and you make sure you have installed MCN
 
 mvn -Dtest=tests.demo_04_restassured.ITeBooks test
 
