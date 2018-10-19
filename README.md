@@ -1,5 +1,5 @@
-Demos with Junit, TestNG, REST Assured, Selenium, Sikuli and Appium
 To Run Test cases:
+
 mvn -Dtest=tests.demo_04_restassured.ITeBooks test
 
 mvn -Dtest=tests.demo_04_restassured.GitHub.GitHubObjects.GitHubAPI test
